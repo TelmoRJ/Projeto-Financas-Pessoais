@@ -1,11 +1,11 @@
 # Projeto Finanças Pessoais
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/76757566/183431398-db988a2e-3bfa-4d05-9412-8be5f2960635.gif)
+
 ## Tecnologias usadas:
 - HTML/CSS
 - TYPESCRIPT
 - REACT
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/76757566/183431398-db988a2e-3bfa-4d05-9412-8be5f2960635.gif)
 
 ## Como utlizar?
 1 - Clone o Projeto
